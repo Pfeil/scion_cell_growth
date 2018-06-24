@@ -1,0 +1,5 @@
+Brightfield-time-series-proliferation
+src/out
+*.tif
+*.zip
+*.czi
