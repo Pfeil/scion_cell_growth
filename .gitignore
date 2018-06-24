@@ -3,3 +3,6 @@ src/out
 *.tif
 *.zip
 *.czi
+*.gif
+*.xcf
+*.png
